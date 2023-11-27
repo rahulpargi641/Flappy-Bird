@@ -53,11 +53,11 @@
     - RepeatingGround: Manages a repeating ground, repositioning it when it goes beyond a certain horizontal 
              length to create a continuous scrolling effect.
              
-    - ScrollingObjectController: Controls the scrolling behavior of an object, adjusting its velocity based on the 
-             game's scroll speed. The object stops scrolling when the game is over.
+    - ScrollingObjectController: Controls the scrolling behavior of an object, adjusting its velocity based on 
+             the game's scroll speed. The object stops scrolling when the game is over.
 
-    - SoundManager: manages sound effects, providing a singleton instance to play various audio clips. It includes 
-             functionality to play specific sounds and ensures that the sound manager persists across scenes.
+    - SoundManager: manages sound effects, providing a singleton instance to play various audio clips. It 
+             includes functionality to play specific sounds and ensures that the sound manager persists across scenes.
              
  #### Game Design
      - Designed strategic level using provided assets.

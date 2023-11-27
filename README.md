@@ -19,7 +19,7 @@
         - Enjoy vibrant graphics and a visually appealing design.
         
     - Responsive UI:
-        User-friendly interface ensuring smooth navigation and accessibility.
+        - User-friendly interface ensuring smooth navigation and accessibility.
         
     - Scoring tracking System.
     

@@ -43,15 +43,15 @@
                   
     - ColumnsController: Triggers scoring and sound effects when a bird enters the trigger zone of a column.
     
-    - GameController: Manages the game flow, controlling the start, pause, and game over states. It handles scoring,
-             restarting the game on mouse click after a game over, and toggling between pause and play states with 
-             specific input controls.
+    - GameController: Manages the game flow, controlling the start, pause, and game over states. It handles 
+             scoring, restarting the game on mouse click after a game over, and toggling between pause and play 
+             states with specific input controls.
     
-    - LobbyController: Handles a game lobby with start and quit buttons, triggering sound effects and actions such 
-             as loading the next scene or quitting the application.
+    - LobbyController: Handles a game lobby with start and quit buttons, triggering sound effects and actions 
+             such as loading the next scene or quitting the application.
 
-    - RepeatingGround: Manages a repeating ground, repositioning it when it goes beyond a certain horizontal length
-             to create a continuous scrolling effect.
+    - RepeatingGround: Manages a repeating ground, repositioning it when it goes beyond a certain horizontal 
+             length to create a continuous scrolling effect.
              
     - ScrollingObjectController: Controls the scrolling behavior of an object, adjusting its velocity based on the 
              game's scroll speed. The object stops scrolling when the game is over.

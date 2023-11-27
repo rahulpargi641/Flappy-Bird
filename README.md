@@ -57,7 +57,8 @@
              the game's scroll speed. The object stops scrolling when the game is over.
 
     - SoundManager: manages sound effects, providing a singleton instance to play various audio clips. It 
-             includes functionality to play specific sounds and ensures that the sound manager persists across scenes.
+             includes functionality to play specific sounds and ensures that the sound manager persists across 
+            scenes.
              
  #### Game Design
      - Designed strategic level using provided assets.
